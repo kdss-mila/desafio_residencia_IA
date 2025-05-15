@@ -1,4 +1,4 @@
-# 🧠 Sistema Inteligente de Detecção de Defeitos em Chapas de Aço
+# 🧠 Sistema de Detecção de Defeitos em Chapas de Aço
 
 Desafio Bootcamp de Ciência de Dados e Inteligência Artificial - SENAI
 
